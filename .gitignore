@@ -213,6 +213,3 @@ __pycache__/
 *.pyc
 # Ignore environment files
 .env
-
-.Rhistory
-.DS_Store
