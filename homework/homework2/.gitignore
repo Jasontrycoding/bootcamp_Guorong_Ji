@@ -1,0 +1,18 @@
+# environment variables
+.env
+
+# python virtual env folders
+env/
+.venv/
+
+# cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# data folder (optional,避免上传大数据)
+data/
